@@ -78,4 +78,6 @@ MP:-59 Tx:0dBm
 
 ## 能不能再给力一点?
 
-当然可以, 鼠子提供以下链接, 觉得好用的话可以请小鼠喝杯咖啡喵^^: https://pan.baidu.com/s/1ED7q8PYqjpq8LYqcWpaskg?pwd=2333 
+拥有ESP32的门槛还是太高了, 有没有仅需手机的方法🥺?
+
+当然可以, 鼠子提供以下链接, 觉得好用的话可以关注收藏本仓库请小鼠喝杯咖啡喵^^: https://pan.baidu.com/s/1ED7q8PYqjpq8LYqcWpaskg?pwd=2333 
